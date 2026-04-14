@@ -1,3 +1,5 @@
+![Banner](banner.jpg)
+
 # CollegeGrub
 
 > Bringing Voice to UW-Madison's Dining Community
