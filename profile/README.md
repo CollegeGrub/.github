@@ -55,4 +55,4 @@ We're planning to open-source CollegeGrub so other universities can deploy it fo
 
 ---
 
-📍 University of Wisconsin–Madison · ✉️ [hello@collegegrub.app](mailto:hello@collegegrub.app) · *CollegeGrub — because your dining experience matters.*
+📍 University of Wisconsin–Madison · ✉️ [collegegrub@outlook.com](mailto:collegegrub@outlook.com) · *CollegeGrub — because your dining experience matters.*
